@@ -2,7 +2,7 @@
 
 In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn Swift syntax
 
-1. Basics[code1] | [Lesson 1 Video][lesson1]
+1. [Basics][code1] | [Lesson 1 Video][lesson1]
 2. Basic Types
 3. Tuples
 4. Optional Types
