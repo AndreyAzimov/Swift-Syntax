@@ -4,7 +4,7 @@ In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn
 
 1. Basics | [Code][code1] | [Lesson 1 Video][lesson1]
 2. Basic Types | [Code][code2] | [Lesson 2 Video][lesson2]
-3. Tuples | [Code][code3] | [Lesson 3 Video][lesson3]
+3. Tuples | [Code][code3]
 4. Optional Types
 5. Basics Operators
 6. Strings
