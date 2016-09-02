@@ -1,7 +1,7 @@
 # Learning Swift syntax
+![](https://github.com/AndreyAzimov/Swift-Syntax/blob/master/logo.png)
 
-In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn Swift syntax ![](https://github.com/AndreyAzimov/Swift-Syntax/blob/master/logo.png)
-
+In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn Swift syntax 
 1. Basics | [code][code1] | [video][lesson1]
 2. Basic Types  | [code][code2] | [video][lesson2]
 3. Tuples  | [code][code3] | [video][lesson3]
