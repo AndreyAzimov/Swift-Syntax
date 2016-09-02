@@ -14,6 +14,14 @@ In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn
 10. Functions
 11. Closure
 12. Enums
+13. 
+
+
+| Name        | Name           | Code  |
+| ------------- |:-------------:| -----:|
+| Basics      | [Code][code1] |[Code][code1]|
+| Basic Types    | centered      |   $12 |
+| Tuples | are neat      |    $1 |
 
 [alex]: <https://www.youtube.com/playlist?list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm>
 
