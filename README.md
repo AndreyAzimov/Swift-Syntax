@@ -2,19 +2,9 @@
 
 In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn Swift syntax
 
-1. Basics             |[Code][code1] | [Lesson 1 Video][lesson1]
-2. Basic Types        |[Code][code2] | [Lesson 2 Video][lesson1]
-3. Tuples
-4. Optional Types
-5. Basics Operators
-6. Strings
-7. Arrays
-8. Dictionary
-9. Switch Operator
-10. Functions
-11. Closure
-12. Enums
-13. 
+| #  | Lesson Name   | Code            | Lesson video 			      |
+| -- |:-------------:| :--------------:| -----------------------: |
+| 1  | Basics        | [Code][code1]   |[Lesson 1 Video][lesson1] |
 
 
 
