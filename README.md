@@ -17,11 +17,7 @@ In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn
 13. 
 
 
-| Name        | Name           | Code  |
-| ------------- |:-------------:| -----:|
-| Basics      | [Code][code1] |[Code][code1]|
-| Basic Types    | centered      |   $12 |
-| Tuples | are neat      |    $1 |
+
 
 [alex]: <https://www.youtube.com/playlist?list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm>
 
@@ -39,3 +35,11 @@ In scope of [Alex Skutarenko's Swift Course][alex] completed 12 lessons to learn
 [code12]: <https://github.com/AndreyAzimov/Swift-Syntax/blob/master/12-Enums.swift>
 
 [lesson1]: <https://www.youtube.com/watch?v=crzT-L7AaNQ&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=2>
+[lesson2]: <>
+[lesson3]: <>
+[lesson3]: <>
+[lesson3]: <>
+[lesson3]: <>
+[lesson3]: <>
+[lesson3]: <>
+[lesson3]: <>
